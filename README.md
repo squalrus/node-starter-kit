@@ -29,3 +29,10 @@ This starter kit is for quickly building a Node application with Express. It cur
 - less-middleware
 - connect-assetmanager
 - connect-assetmanager-handlers
+
+### Using Grunt.js cause it rocks!
+- grunt
+- grunt-contrib-uglify
+- grunt-contrib-less
+- grunt-contrib-jshint
+- grunt-contrib-watch
